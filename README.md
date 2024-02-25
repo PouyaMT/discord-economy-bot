@@ -1,5 +1,5 @@
 # Discord Economy Bot
-### A lightweight, Discord economy bot built with Discord.js.
+### A lightweight Discord economy bot built with Discord.js.
 A simple Discord economy bot built with Discord.js and using MongoDB for database management. The bot provides the ability for users to gain money by completing tasks or winning games, and more.
 
 ## Features
