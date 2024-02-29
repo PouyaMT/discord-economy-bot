@@ -11,7 +11,7 @@ function getRandomNumber(x, y) {
 module.exports = {
     data: new SlashCommandBuilder()
         .setName('beg')
-        .setDescription('Beg from people for money.'),
+        .setDescription('Beg people for money.'),
     async execute(interaction) {
         if (!interaction.inGuild()) {
             interaction.reply({
