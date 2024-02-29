@@ -7,7 +7,7 @@ module.exports = {
 		console.log(`Ready! Logged in as ${client.user.tag}`);
 
 		client.user.setActivity({
-			name: "the Economy",
+			name: "the economy",
 			type: ActivityType.Watching
 		})
 	},
