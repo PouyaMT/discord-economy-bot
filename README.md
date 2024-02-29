@@ -13,7 +13,7 @@ A simple Discord economy bot built with Discord.js and using MongoDB for databas
 * `/daily` - Collect your daily reward.
 * `/work` - Work to earn an income.
 * `/fish` - Catch a fish and sell it to get money.
-* `/beg` - Beg from people for money.
+* `/beg` - Beg people for money.
 * `/pay` - Pay money to another user.
 * `/balance` - Check a user's balance.
 * `/leaderboard` - Check top ten richest users.
