@@ -47,7 +47,7 @@ module.exports = {
 
             const chance = getRandomNumber(0, 100);
 
-            if (chance < 40) {
+            if (chance < 20) {
                 const embed = new EmbedBuilder()
                     .setColor("#A27979")
                     .setDescription('The cake you were baking burnt. Come back later.');
