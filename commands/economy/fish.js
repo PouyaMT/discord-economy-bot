@@ -60,7 +60,7 @@ module.exports = {
 
             const amount = getRandomNumber(50, 175);
 
-            let fishes = ['mackerel', 'salmon', 'shellfish', 'sardines', 'tuna'];
+            let fishes = ['mackerel', 'salmon', 'shellfish', 'tuna'];
             let fish = Math.floor((Math.random() * fishes.length));
 
             let userProfile = await UserProfile.findOne({ userId });
